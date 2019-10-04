@@ -1,0 +1,68 @@
+{
+  "portrait": {
+    "iPad Air 2": {
+      "offset": "+112+224",
+      "width": 1536
+    },
+    "iPad Mini 4": {
+      "offset": "+96+278",
+      "width": 1536
+    },
+    "iPad Pro": {
+      "offset": "+119+216",
+      "width": 2048
+    },
+    "iPhone 5c": {
+      "offset": "+67+239",
+      "width": 640
+    },
+    "iPhone 5s": {
+      "offset": "+64+238",
+      "width": 640
+    },
+    "iPhone 6s": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone 6s Plus": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone 7": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone 7 Plus": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone 8": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone 8 Plus": {
+      "offset": "+55+176",
+      "width": 656
+    },
+    "iPhone SE": {
+      "offset": "+62+199",
+      "width": 632
+    },
+    "iPhone XR": {
+      "offset": "+41+32",
+      "width": 672
+    },
+    "iPhone X": {
+      "offset": "+41+32",
+      "width": 672
+    },
+    "iPhone XS": {
+      "offset": "+41+32",
+      "width": 672
+    },
+    "iPhone XS Max": {
+      "offset": "+41+32",
+      "width": 672
+    }
+  }
+}
